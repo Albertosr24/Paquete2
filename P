@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 xui-id="112675" tvg-id="MOLIGA" tvg-name="|ES| MOVISTAR LA LIGA FHD (HEVC) - En pruebas" tvg-logo="http://server.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSFdoUzk9WkwDNNHfB_MnXGPebyauooZlJu6IsgxQ98QA.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA FHD (HEVC) - En pruebas
+http://asia.solanaflix.com:8080/play/wLGIzPHALSszQPEHArC6WyfaIYy34XkGSfd6r4kGbzWtin0dg3-nPRbiuDKbfXDZ
+#EXTINF:-1 xui-id="56222" tvg-id="MOLIGA" tvg-name="|ES| MOVISTAR LA LIGA FHD" tvg-logo="http://server.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSFdoUzk9WkwDNNHfB_MnXGPebyauooZlJu6IsgxQ98QA.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA FHD
+http://asia.solanaflix.com:8080/play/wLGIzPHALSszQPEHArC6W68p6xxOB62o-5lfn877K69pv-Apu6lXS9fOlNTxFk6_
+#EXTINF:-1 xui-id="48563" tvg-id="MOLIGA" tvg-name="|ES| MOVISTAR LA LIGA" tvg-logo="http://server.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSFdoUzk9WkwDNNHfB_MnXGPebyauooZlJu6IsgxQ98QA.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA
+http://asia.solanaflix.com:8080/play/wLGIzPHALSszQPEHArC6W0xGnKEH8SL3ePrNrvl9fA2NPWQO7Lo51Nq777tNd-_4
